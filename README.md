@@ -1,4 +1,6 @@
-﻿/*test machine: csel-kh1250-01.cselabs.umn.edu * date: 12/06/19
+﻿# This was a project for the class CSCI 4061: Introduction to Operating Systems
+ 
+ /*test machine: csel-kh1250-01.cselabs.umn.edu * date: 12/06/19
 * name: Oliver Latocki
 * x500: latoc004 */
 
