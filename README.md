@@ -8,6 +8,7 @@
 PROGRAMMING ASSIGNMENT 4: SOCKET PROGRAMMING
 CSCI 4061
 
+Server/client program to demonstrate TCP socket programming. Uses a multithreaded server which handles several client connections to solve a map/reduce problem: counting letter frequencies of thousands of words.
 
 HOW TO COMPILE
 
